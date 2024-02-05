@@ -1,1 +1,1 @@
-# Repositorio com imagens de Readme
+# Repositorio com imagens de Readme dos outros projetos
